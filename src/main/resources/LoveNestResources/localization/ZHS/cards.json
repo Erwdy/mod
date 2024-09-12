@@ -1,0 +1,67 @@
+{
+  "LoveNest:Strike": {
+    "NAME": "攻击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 给予1层流血。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 给予2层流血。"
+  },
+  "LoveNest:Protect": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点防御。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点防御。"
+  },
+  "LoveNest:VIII": {
+    "NAME": "VIII-力量",
+    "DESCRIPTION": "获得3点力量。",
+    "UPGRADE_DESCRIPTION": "获得3点力量。"
+  },
+  "LoveNest:MultipleChop": {
+    "NAME": "多重劈砍",
+    "DESCRIPTION": "造成 !D! 点伤害4次",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害4次"
+  },
+  "LoveNest:Offensive": {
+    "NAME": "准备进攻",
+    "DESCRIPTION": "移除敌人的格挡, NL 并对其施加两层易损",
+    "UPGRADE_DESCRIPTION": "移除敌人的格挡, NL 并对其施加两层易损"
+  },
+  "LoveNest:Energy": {
+    "NAME": "能量补充",
+    "DESCRIPTION": "获得 [E] ，抽一张牌。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "获得 [E]  [E] ，抽一张牌。 NL 消耗"
+  },
+  "LoveNest:NotDemon": {
+    "NAME": "不是恶魔形态",
+    "DESCRIPTION": "每回合开始时获得1点力量 NL 保留",
+    "UPGRADE_DESCRIPTION": "每回合开始时获得1点力量 NL 保留"
+  },
+  "LoveNest:HeavyChop": {
+    "NAME": "重劈",
+    "DESCRIPTION": "失去3生命，造成 !D! 点伤害。 NL 给予敌人3层虚弱。 NL 力量发挥3倍作用",
+    "UPGRADE_DESCRIPTION": "失去5生命，造成 !D! 点伤害。 NL 给予敌人5层虚弱。 NL 力量发挥5倍作用"
+  },
+  "LoveNest:Confused": {
+    "NAME": "迷惑",
+    "DESCRIPTION": "获得 !B! 点格挡 NL 使一个敌人失去2点力量",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡 NL 使一个敌人失去4点力量"
+  },
+  "LoveNest:Behead": {
+    "NAME": "斩首",
+    "DESCRIPTION": "造成 !D! 伤害。 NL 消耗 NL 保留",
+    "UPGRADE_DESCRIPTION": "造成 !D! 伤害。 NL  消耗 NL 保留"
+  },
+  "LoveNest:PsychologicalComfort": {
+    "NAME": "心理安慰",
+    "DESCRIPTION": "每回合结束时回复 !M! 生命。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "每回合结束时回复 !M! 生命。 NL 消耗"
+  },
+  "LoveNest:Qing1": {
+    "NAME": "电锯杀人狂",
+    "DESCRIPTION": "获得3层虚弱，失去1点生命5次。 NL 造成 !D! 点伤害9次。 NL 每次给予一层流血。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "获得3层虚弱，失去1点生命5次。。 NL 造成 !D! 点伤害9次。 NL 每次给予一层流血。 NL 消耗 NL 保留"
+  },
+  "LoveNest:Appease": {
+    "NAME": "安抚",
+    "DESCRIPTION": "给敌人回复10生命。 NL 如果敌人没有恶印象， NL 施加 !M! 层善印象。 NL 固有",
+    "UPGRADE_DESCRIPTION": "给敌人回复10生命。 NL 如果敌人没有恶印象， NL 施加 !M! 层善印象。 NL 固有"
+  }
+}

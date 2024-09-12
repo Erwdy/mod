@@ -1,0 +1,23 @@
+{
+  "LoveNest:Placebo": {
+    "NAME": "心理安慰",
+    "DESCRIPTIONS": [
+      " #y回合结束 时，回复 #b",
+      " 点生命。"
+    ]
+  },
+  "LoveNest:Bleed": {
+    "NAME": "流血",
+    "DESCRIPTIONS": [
+      " #y受到攻击 时，减少 #b",
+      " 点生命，回合开始时减少1/3层数"
+    ]
+  },
+  "LoveNest:Kindness": {
+    "NAME": "善印象",
+    "DESCRIPTIONS": [
+      "造成的伤害减少 #b",
+      "50% ，每回合结束时减少1层"
+    ]
+  }
+}
